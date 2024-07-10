@@ -1,0 +1,14 @@
+{
+    "username_exist" : "UserName is Already Exist",
+    "verifycode-error":"Verified code invalid or expired",
+    "login-valid":"please enter a valid email or password",
+    "login-notVerified":"Your account not verified! please verify your account",
+    "login-error":"Incorrect Email or Password",
+    "logout-error":"error in logout",
+    "message-error":"There is an error in sending message via whatsapp",
+    "resetCode-error":"Reset code invalid or expired",
+    "password!-confirm":"Password and confirmation password do not match",
+    "protect-error":"you are not logged in! please log in to get access",
+    "token-invalid":"this user to this token not longer exists",
+    "user-not-exist":"User Not Found"
+    }
